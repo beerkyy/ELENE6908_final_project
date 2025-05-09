@@ -1,0 +1,5 @@
+Sleep Stage,Precision,Recall,F1 Score,Number of Test Samples
+Awake,0.96,0.46,0.62,59
+NREM 1,0.51,0.37,0.43,89
+NREM 2,0.74,0.97,0.84,255
+Class 4,0.93,0.6,0.73,70
